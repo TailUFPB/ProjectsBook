@@ -1,0 +1,23 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+  numbered: false
+
+- part: Aprendizagem por Reforço
+  chapters:
+  - file: RL/projeto_01
+
+
+- part: Ciência de Dados
+  chapters:
+  - file: DS/projeto_01
+
+
+- part: Processamento de Linguagem Natural
+  chapters:
+  - file: NLP/projeto_01
+
+- part: Visão Computacional
+  chapters:
+  - file: CV/projeto_01
