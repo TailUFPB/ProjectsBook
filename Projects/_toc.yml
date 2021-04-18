@@ -6,18 +6,31 @@
 
 - part: Aprendizagem por Reforço
   chapters:
-  - file: RL/projeto_01
+  - file: RL/table_of_contents
+  - file: RL/atari_games
+  - file: RL/contributors
 
 
 - part: Ciência de Dados
   chapters:
-  - file: DS/projeto_01
+  - file: DS/table_of_contents
+  - file: DS/political_clustering
+  - file: DS/contributors
 
 
 - part: Processamento de Linguagem Natural
   chapters:
-  - file: NLP/projeto_01
+  - file: NLP/table_of_contents
+  - file: NLP/traveling_sentiment_analysis
+  - file: NLP/short_scary_stories
+  - file: NLP/music_evolution_sentiment_analysis
+  - file: NLP/contributors
+  
 
 - part: Visão Computacional
   chapters:
-  - file: CV/projeto_01
+  - file: CV/table_of_contents
+  - file: CV/rooms_style_transfer
+  - file: CV/expiration_date_detection
+  - file: CV/historical_images_colorization
+  - file: CV/contributors
